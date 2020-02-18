@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="199df79b-dfa9-4b71-9344-4d0e868add84" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XzPx9tvFwHdNKNKWmhqeiRTvAT" />
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.LoginTest.successfulLoginTest">
+    <configuration name="LoginTest.successfulLoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positive" />
+      <option name="MAIN_CLASS_NAME" value="positive.LoginTest" />
+      <option name="METHOD_NAME" value="successfulLoginTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuccessfullRegistration.successfullRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="positive.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="positive" />
+      <option name="MAIN_CLASS_NAME" value="positive.SuccessfullRegistration" />
+      <option name="METHOD_NAME" value="successfullRegistrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsuccessfulRegistration.successfulRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="negative" />
+      <option name="MAIN_CLASS_NAME" value="negative.UnsuccessfulRegistration" />
+      <option name="METHOD_NAME" value="successfulRegistrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnsuccessfulRegistration.unsuccessfulRegistrationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationExam" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="negative.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="negative" />
+      <option name="MAIN_CLASS_NAME" value="negative.UnsuccessfulRegistration" />
+      <option name="METHOD_NAME" value="unsuccessfulRegistrationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTest.successfulLoginTest" />
+        <item itemvalue="TestNG.UnsuccessfulRegistration.unsuccessfulRegistrationTest" />
+        <item itemvalue="TestNG.UnsuccessfulRegistration.successfulRegistrationTest" />
+        <item itemvalue="TestNG.SuccessfullRegistration.successfullRegistrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="199df79b-dfa9-4b71-9344-4d0e868add84" name="Default Changelist" comment="" />
+      <created>1582046193988</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582046193988</updated>
+    </task>
+    <servers />
+  </component>
+</project>
